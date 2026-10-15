@@ -1,0 +1,6 @@
+{
+  "name": "LUMENIQ - AI Search Visibility & Optimization Platform",
+  "description": "Enterprise AI search visibility, citation intelligence, query lab simulator, and autonomous optimization platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

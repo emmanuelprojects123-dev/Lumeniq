@@ -1,0 +1,11 @@
+# Docker ignore — exclude from build context for smaller images
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+dev_server.log
+*.log
+.git/
+.gitignore
+README.md
