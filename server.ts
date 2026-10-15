@@ -612,6 +612,9 @@ async function startServer() {
   });
 }
 
+// Export for Vercel serverless functions (api/index.ts)
+export default app;
+
 startServer().catch((err) => {
   console.error('Fatal error starting LUMENIQ server:', err);
 });
